@@ -1,0 +1,9 @@
+# build artifacts
+*.profraw
+
+# macOS
+.DS_Store
+
+# editor
+.vscode/
+.idea/

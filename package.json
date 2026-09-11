@@ -1,0 +1,36 @@
+{
+  "name": "pi-seedgrow",
+  "version": "1.0.0",
+  "description": "A seed grows into a sprout 🌱 in your Pi working indicator. Hand-built TrueType icon font, 10 frames, pure Python.",
+  "type": "module",
+  "license": "0BSD",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leovoon/pi-seedgrow.git"
+  },
+  "bugs": {
+    "url": "https://github.com/leovoon/pi-seedgrow/issues"
+  },
+  "homepage": "https://github.com/leovoon/pi-seedgrow#readme",
+  "keywords": [
+    "pi",
+    "pi-package",
+    "pi-extension",
+    "seedgrow",
+    "runcat",
+    "working-indicator"
+  ],
+  "files": [
+    "pi-seedgrow.ts",
+    "seedgrow.ttf",
+    "README.md"
+  ],
+  "peerDependencies": {
+    "@earendil-works/pi-coding-agent": "*"
+  },
+  "pi": {
+    "extensions": [
+      "./pi-seedgrow.ts"
+    ]
+  }
+}
