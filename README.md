@@ -1,6 +1,6 @@
 # pi-seedgrow
 
-<p align="center"><img src="preview.svg" width="640" alt="the 10 growth frames" /></p>
+<p align="center"><img src="frames.svg" width="640" alt="the 10 growth frames" /></p>
 
 A seed that grows into a sprout 🌱 for your [Pi](https://github.com/badlogic/pi-mono) loading bar.
 
